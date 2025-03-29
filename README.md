@@ -1,4 +1,4 @@
-## Machine learning to monitor national trends for hepatitis C virus reinfection and treatment failure retreatments
+## Machine learning to monitor national trends in hepatitis C virus reinfection and treatment failure retreatments
 
 The treatment of hepatitis C virus (HCV) infection has evolved considerably with the development of direct-acting antiviral (DAA) therapies that are well-tolerated and yield high cure rates (≥95%). However, a small proportion of those treated will have virological failure while others may become reinfected. Retreatment of reinfection and virological failure is essential to prevent transmission, liver disease progression and HCV-related mortality. 
 
